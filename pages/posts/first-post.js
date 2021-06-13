@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import { lazy } from 'react'
 import Layout from '../../components/layout'
 
 export default function FirstPost() {
